@@ -46,7 +46,7 @@ import {geolocated} from 'react-geolocated'
       // link 
     const link = city && country ? 
     `https://api.openweathermap.org/data/2.5/weather?q=${city},${country}&appid=${API_KEY}` :
-    `http://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=${API_KEY}`
+    `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=${API_KEY}`
      try{
     const getData = await fetch(link);
     const response = await getData.json()
