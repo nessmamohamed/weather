@@ -1,7 +1,10 @@
-
+.body{
+  overflow-x: hidden
+}
 
 .img{
   background-size: cover;
+  background-position: center;
   min-width: 100%;
   max-height: 160%;
   min-height: 100%;

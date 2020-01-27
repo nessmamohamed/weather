@@ -63,7 +63,8 @@ import {geolocated} from 'react-geolocated'
        description: response.weather[0].description,
        temp_max: this.cal(response.main.temp_max),
        temp_min: this.cal(response.main.temp_min),
-       celsuis : this.cal(response.main.temp)
+       celsuis : this.cal(response.main.temp), 
+       error: false
       }) }catch(e){
         this.setState({
           error: 'data error'
