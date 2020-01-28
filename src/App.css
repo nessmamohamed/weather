@@ -1,7 +1,7 @@
 body{
   overflow-x: hidden;
   white-space: nowrap;
-  
+  height: fit-content;
 }
 
 .img{

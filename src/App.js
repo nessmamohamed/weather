@@ -140,8 +140,7 @@ import {geolocated} from 'react-geolocated'
 
         <div>
 
-            <img src={backWeather} alt='img' className = 'img' 
-            ></img>
+            <img src={backWeather} alt='img' className = 'img' ></img>
              
             <Form onChangeCity = {this.onChangeCity}
                   onChangeCountry = {this.onChangeCountry}
