@@ -2,14 +2,14 @@ body{
   overflow-x: hidden;
   white-space: nowrap;
   height: fit-content;
+  
 }
 
 .img{
   background-size: cover;
   background-position: center;
-  min-width: 100%;
-  max-height: 160%;
-  min-height: 100%;
+  width: -webkit-fill-available;
+  min-height: 140%;
   position: absolute;
   
 
