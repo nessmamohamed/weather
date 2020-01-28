@@ -17,9 +17,9 @@ export default class weatherForm extends React.Component {
       }
         return(
             <div >
-             <div className='container py-4 text-center ' style={{position: 'relative' , maxWidth: '70%'}}>
+             <div className='container py-4 text-center px-0' style={{position: 'relative' , maxWidth: '70%'}}>
              
-             <div className='card py-4 mx-0 mx-md-5' id='card'>
+             <div className='card py-4 mx-0 px-3 mx-md-5' id='card'>
                 
              <h2 className='pt-4'> {this.props.city}</h2>
            
