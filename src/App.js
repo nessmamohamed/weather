@@ -4,7 +4,7 @@ import './App.css';
 import Form from './component/form'
 import WeatherForm from './component/weatherForm'
 
-import backWeather from './background/weather199(1).jpg'
+import backWeather from './background/weather199(1).png'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import 'weather-icons/css/weather-icons.css'
 
