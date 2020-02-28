@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/recipes/static/css/main.df469fce.chunk.css",
+    "main.js": "/recipes/static/js/main.c3899f94.chunk.js",
+    "main.js.map": "/recipes/static/js/main.c3899f94.chunk.js.map",
+    "runtime-main.js": "/recipes/static/js/runtime-main.aab8fb32.js",
+    "runtime-main.js.map": "/recipes/static/js/runtime-main.aab8fb32.js.map",
+    "static/css/2.b9db45bc.chunk.css": "/recipes/static/css/2.b9db45bc.chunk.css",
+    "static/js/2.7e80e8d6.chunk.js": "/recipes/static/js/2.7e80e8d6.chunk.js",
+    "static/js/2.7e80e8d6.chunk.js.map": "/recipes/static/js/2.7e80e8d6.chunk.js.map",
+    "index.html": "/recipes/index.html",
+    "precache-manifest.d43ce8a184a01d114ffb2dccf2f57694.js": "/recipes/precache-manifest.d43ce8a184a01d114ffb2dccf2f57694.js",
+    "service-worker.js": "/recipes/service-worker.js",
+    "static/css/2.b9db45bc.chunk.css.map": "/recipes/static/css/2.b9db45bc.chunk.css.map",
+    "static/css/main.df469fce.chunk.css.map": "/recipes/static/css/main.df469fce.chunk.css.map",
+    "static/js/2.7e80e8d6.chunk.js.LICENSE": "/recipes/static/js/2.7e80e8d6.chunk.js.LICENSE",
+    "static/media/weather20.jpg": "/recipes/static/media/weather20.1f65df40.jpg",
+    "static/media/weather-icons.css": "/recipes/static/media/weathericons-regular-webfont.ecaf8b48.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aab8fb32.js",
+    "static/css/2.b9db45bc.chunk.css",
+    "static/js/2.7e80e8d6.chunk.js",
+    "static/css/main.df469fce.chunk.css",
+    "static/js/main.c3899f94.chunk.js"
+  ]
+}
